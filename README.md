@@ -1,2 +1,3 @@
 # zkloom-examples
-Examples of deploying and interacting with contracts on zkLoom
+
+This repo contains examples of deploying and interacting with contracts on zkLoom.
